@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @malchyn
-- 👀 I’m interested in Backend and Frontend
-- 🌱 I’m currently learning Java/Bootstrap/JS/React
+- 👀 I’m interested in Front-end and C# also Net and Unity
+- 🌱 I’m currently learning Java/Bootstrap/JS/React/Unity/C#
 - 💞️ I’m looking to collaborate on freelance
 - 📫 How to reach me, no way, i'm anonymous
 
